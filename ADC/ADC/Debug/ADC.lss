@@ -1,0 +1,6 @@
+
+AVRASM ver. 2.2.7  C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\main.asm Wed Feb 12 19:45:06 2020
+
+[builtin](2): Including file 'G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc'
+C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\main.asm(2): Including file 'G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M32DEF.INC'
+C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\main.asm(40): error: DIV: Unknown instruction or macro

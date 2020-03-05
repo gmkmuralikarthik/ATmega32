@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>G:\ATMEL\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+  <FILE>G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\Debug\embed convolution.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>embed convolution.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>embed convolution.map</FILE>
+  <FILE>embed convolution.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BLOCK0><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>54</LINE></BLOCK0>
+  <BLOCK1><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>61</LINE></BLOCK1>
+  <BLOCK2><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>67</LINE></BLOCK2>
+  <BLOCK3><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>73</LINE></BLOCK3>
+  <BLOCK4><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>80</LINE></BLOCK4>
+  <BLOCK5><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>87</LINE></BLOCK5>
+  <BLOCK6><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>94</LINE></BLOCK6>
+  <default><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>101</LINE></default>
+  <done><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\embed convolution\embed convolution\main.asm</FILE><LINE>108</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>

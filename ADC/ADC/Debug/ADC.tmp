@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>G:\ATMEL\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32def.inc</FILE>
+  <FILE>G:/ATMEL\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\Debug\ADC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ADC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ADC.map</FILE>
+  <FILE>ADC.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <READ_ADC><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\main.asm</FILE><LINE>28</LINE></READ_ADC>
+  <KEEP_POLLING><FILE>C:\Users\Asus\Documents\Atmel Studio\7.0\ADC\ADC\main.asm</FILE><LINE>30</LINE></KEEP_POLLING>
+ </LABELS>
+</ASSEMBLER_INFO>

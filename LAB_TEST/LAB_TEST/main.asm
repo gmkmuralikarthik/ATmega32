@@ -1,0 +1,9 @@
+.include "M32DEF.INC"
+.org 0x00
+
+  
+SBI DDRD,7
+SBI PORTD,7
+WAIT:
+ RJMP WAIT
+
